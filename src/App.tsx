@@ -2,7 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from './assets/vite.svg'
 // import heroImg from './assets/hero.png'
-import { useState, type MouseEvent } from 'react'
+import { useState, } from 'react'
 import { fetchQuestions } from './API';
 import { Difficulty } from './API';
 import type { QuestionState } from './API';
